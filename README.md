@@ -1,5 +1,4 @@
-<pre><code>Hello World!</code></pre>
-<p>My name is Marvin.</p>
+<code>Hello World! My name is Marvin.</code>
 <h3 align="center">A passionate frontend developer from Southern Germany. Always looking for ways to improve and to learn something new. Currently drifting in the direction of full stack web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
