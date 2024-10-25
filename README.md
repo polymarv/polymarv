@@ -1,5 +1,5 @@
-<div align="center"><code>Hello World! My name is Marvin.</code></div>
-<p align="center" style="margin: 2px 0;">
+<div align="left"><code>Hello World! My name is Marvin.</code></div>
+<p align="left" style="margin: 2px 0;">
   A passionate frontend developer from Southern Germany. Always looking for ways to improve and to learn something new. Currently drifting in the direction of full stack web development.
 </p>
 <hr style="width: 50%; margin: auto;">
