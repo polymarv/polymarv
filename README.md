@@ -1,7 +1,6 @@
 <div align="center"><code>Hello World! My name is Marvin.</code></div>
-<h4 align="center">A passionate frontend developer from Southern Germany. Always looking for ways to improve and to learn something new. Currently drifting in the direction of full stack web development.</h4>
+<p align="center">A passionate frontend developer from Southern Germany. Always looking for ways to improve and to learn something new. Currently drifting in the direction of full stack web development.</p>
 <hr style="width: 50%; margin: auto;">
-<br />
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/marvin-franke-337074227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvin-franke-337074227" height="30" width="40" /></a>
